@@ -1,0 +1,6 @@
+name: genpark-ppo-clipped-surrogate-loss-evaluator-skill
+version: 1.0.0
+description: Proximal Policy Optimization (PPO) clipped surrogate objective calculator with KL divergence penalty
+command: python
+args:
+  - mcp_server.py
